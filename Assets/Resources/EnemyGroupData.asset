@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea3a86ee83e5d24ca56f0ca3c1ad5a0, type: 3}
+  m_Name: EnemyGroupData
+  m_EditorClassIdentifier: 
+  enemyLevelGroups:
+  - levelId: 1
+    count2: 5
+    count3: 6
+    count4: 7
+    count5: 0
+    count6: 0
+    count7: 0
+    count8: 0
+    hardLevel: 0
+  - levelId: 2
+    count2: 4
+    count3: 5
+    count4: 6
+    count5: 0
+    count6: 0
+    count7: 0
+    count8: 0
+    hardLevel: 0
+  - levelId: 3
+    count2: 4
+    count3: 5
+    count4: 6
+    count5: 0
+    count6: 0
+    count7: 0
+    count8: 0
+    hardLevel: 0

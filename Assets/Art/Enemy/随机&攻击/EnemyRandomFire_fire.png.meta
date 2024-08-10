@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: d7cac47e3a6cec747a2556990a0ff13b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3843907706a74e8588f6f50432812
+      internalID: 429566450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 363
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c5727f35c2084e868b3c419a17ab7
+      internalID: 1596174589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 363
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e096326562c8e84f8dd7b2fb4a65284
+      internalID: 1407788344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 363
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414044792a50b248addb590cdf289b7
+      internalID: 1722477419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 363
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7fcbb6def7104aa5c47d822f5ff81
+      internalID: -1885213652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 363
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b7517842977340b143077758e1a2f
+      internalID: 1601947083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b438ed8e5b2a469365532aeb2dae6
+      internalID: 2118785972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 275
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c9b8ae83edb048a1155ddade5b86f
+      internalID: 10364057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 275
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d6b713c61b3543a906994bff19d6e
+      internalID: -412127992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 275
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ceb954937bfd43b510bf0cc069241
+      internalID: -1209103226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 275
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51304846ab9a984ba9ea3667c201a8b
+      internalID: -1876369359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 275
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f186a24c7855c488f7126639df793a
+      internalID: 1240796161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c88aa57c0935b4887e6cc28d0566c2
+      internalID: -1554378738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 187
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c94f1adb959142893b3ab79a39bad
+      internalID: 1871352987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 187
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930683603c4414546b40f270795464e0
+      internalID: 56280687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 187
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53308e7a54e730840bac9c5267cc4bb7
+      internalID: -1054295502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 187
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74cba2d0fd71a49b92e9babfec9dbd
+      internalID: 174318532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 187
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc71ebcd3e2b224497eeb39ee702975
+      internalID: 1344835275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761c26c81fea614485e712c8de98aa9
+      internalID: -1735516167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 99
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76727d5470eb142b76c66f294054c6
+      internalID: -1039766045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 99
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6302c226f13c37045a1b0669be7d9f19
+      internalID: -1137323133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 99
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48359bdcc8d4e864fbcb732d437c120c
+      internalID: 876578959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 99
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9743a8df106fd649986c9ca8aa53c40
+      internalID: 1069063523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 99
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da5f6b464be5046abb644cc6b0cbc4
+      internalID: 13160367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce61df9b63e12b41a7a48acd33f9e9b
+      internalID: 1894781032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204499bcaee5d7438efe83ee65552ed
+      internalID: -221001542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 11
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea210a7d4a22aa849a1a2b5d5fb71182
+      internalID: -553205134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 11
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e56cdef73325514aa4f71600c61c9f5
+      internalID: -1722904680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 11
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d30ae40e432554eb44bf5b79e96ff2
+      internalID: 1599546956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRandomFire_fire_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 11
+        width: 87
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea4c8faabbc2545b6c27f12f6b88a0
+      internalID: -297620558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f094ce961ce70054ab47124193385079
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyRandomFire_fire_0: 429566450
+      EnemyRandomFire_fire_1: 1596174589
+      EnemyRandomFire_fire_10: -1876369359
+      EnemyRandomFire_fire_11: 1240796161
+      EnemyRandomFire_fire_12: -1554378738
+      EnemyRandomFire_fire_13: 1871352987
+      EnemyRandomFire_fire_14: 56280687
+      EnemyRandomFire_fire_15: -1054295502
+      EnemyRandomFire_fire_16: 174318532
+      EnemyRandomFire_fire_17: 1344835275
+      EnemyRandomFire_fire_18: -1735516167
+      EnemyRandomFire_fire_19: -1039766045
+      EnemyRandomFire_fire_2: 1407788344
+      EnemyRandomFire_fire_20: -1137323133
+      EnemyRandomFire_fire_21: 876578959
+      EnemyRandomFire_fire_22: 1069063523
+      EnemyRandomFire_fire_23: 13160367
+      EnemyRandomFire_fire_24: 1894781032
+      EnemyRandomFire_fire_25: -221001542
+      EnemyRandomFire_fire_26: -553205134
+      EnemyRandomFire_fire_27: -1722904680
+      EnemyRandomFire_fire_28: 1599546956
+      EnemyRandomFire_fire_29: -297620558
+      EnemyRandomFire_fire_3: 1722477419
+      EnemyRandomFire_fire_4: -1885213652
+      EnemyRandomFire_fire_5: 1601947083
+      EnemyRandomFire_fire_6: 2118785972
+      EnemyRandomFire_fire_7: 10364057
+      EnemyRandomFire_fire_8: -412127992
+      EnemyRandomFire_fire_9: -1209103226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

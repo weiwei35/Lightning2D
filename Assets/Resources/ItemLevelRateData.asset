@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb895a6894ebeb45892ffe25815d893, type: 3}
+  m_Name: ItemLevelRateData
+  m_EditorClassIdentifier: 
+  itemLevelRanks:
+  - levelId: 1
+    levelType: 1
+    item1Rank: 999
+    item2Rank: 0
+    item3Rank: 1
+    smallRank: 50
+    midRank: 30
+    largeRank: 20
+    littleRank: 90
+    bigRank: 10
+  - levelId: 1
+    levelType: 2
+    item1Rank: 1
+    item2Rank: 0
+    item3Rank: 999
+    smallRank: 50
+    midRank: 30
+    largeRank: 20
+    littleRank: 90
+    bigRank: 10
+  - levelId: 2
+    levelType: 1
+    item1Rank: 995
+    item2Rank: 0
+    item3Rank: 5
+    smallRank: 40
+    midRank: 40
+    largeRank: 20
+    littleRank: 80
+    bigRank: 20
+  - levelId: 2
+    levelType: 2
+    item1Rank: 995
+    item2Rank: 0
+    item3Rank: 5
+    smallRank: 40
+    midRank: 40
+    largeRank: 20
+    littleRank: 80
+    bigRank: 20
+  - levelId: 3
+    levelType: 1
+    item1Rank: 990
+    item2Rank: 0
+    item3Rank: 10
+    smallRank: 20
+    midRank: 30
+    largeRank: 50
+    littleRank: 70
+    bigRank: 30
+  - levelId: 3
+    levelType: 2
+    item1Rank: 990
+    item2Rank: 0
+    item3Rank: 10
+    smallRank: 20
+    midRank: 30
+    largeRank: 50
+    littleRank: 70
+    bigRank: 30

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ade9c2179fef13040bfba357ae7c876e, type: 3}
+  m_Name: ExpLevelData
+  m_EditorClassIdentifier: 
+  items:
+  - level: 1
+    expMax: 100
+  - level: 2
+    expMax: 110
+  - level: 3
+    expMax: 120
+  - level: 4
+    expMax: 130
+  - level: 5
+    expMax: 140
+  - level: 6
+    expMax: 150
+  - level: 7
+    expMax: 160
+  - level: 8
+    expMax: 170
+  - level: 9
+    expMax: 180
+  - level: 10
+    expMax: 190
+  - level: 11
+    expMax: 200
+  - level: 12
+    expMax: 210
+  - level: 13
+    expMax: 220
+  - level: 14
+    expMax: 230
+  - level: 15
+    expMax: 240
+  - level: 16
+    expMax: 250
+  - level: 17
+    expMax: 260
+  - level: 18
+    expMax: 270
+  - level: 19
+    expMax: 280
+  - level: 20
+    expMax: 290
+  - level: 21
+    expMax: 300
+  - level: 22
+    expMax: 310
+  - level: 23
+    expMax: 320
+  - level: 24
+    expMax: 330
+  - level: 25
+    expMax: 340
+  - level: 26
+    expMax: 350
+  - level: 27
+    expMax: 360
+  - level: 28
+    expMax: 370
+  - level: 29
+    expMax: 380
+  - level: 30
+    expMax: 390
+  - level: 31
+    expMax: 400
+  - level: 32
+    expMax: 410
+  - level: 33
+    expMax: 420
+  - level: 34
+    expMax: 430
+  - level: 35
+    expMax: 440

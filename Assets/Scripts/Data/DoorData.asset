@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81cee3fa2d7f51d4194df57944159bf7, type: 3}
+  m_Name: DoorData
+  m_EditorClassIdentifier: 
+  doorItems:
+  - id: 0
+    name: "\u5F00\\\u4E7E\\\u516D\u5FC3"
+    desc: "\u989D\u5916\u83B7\u5F97\u4E00\u9053\u96F7\u7535"
+  - id: 1
+    name: "\u4F11\\\u4E00\u84EC\\\u574E"
+    desc: "\u6BCF\u6CE2\u602A\u7269\u51CF\u5C11\u4E00\u53EA\u602A\u7269\u751F\u6210"
+  - id: 2
+    name: "\u751F\\\u826E\\\u516B\u58EC"
+    desc: "\u6BCF\u9053\u96F7\u7535\u4E3A\u89D2\u8272\u6062\u590D1\u70B9\u751F\u547D\u503C"
+  - id: 3
+    name: "\u666F\\\u79BB\\\u4E5D\u82F1"
+    desc: "\u83B7\u5F975\u70B9\u989D\u5916\u62A4\u7532"
+  - id: 4
+    name: "\u4F24\\\u9707\\\u4E09\u51B2"
+    desc: "\u81EA\u8EAB\u8840\u91CF\u548C\u602A\u7269\u8840\u91CF\u90FD\u964D\u4F4E10%"
+  - id: 5
+    name: "\u675C\\\u5DFD\\\u56DB\u8F85"
+    desc: "\u89D2\u8272\u548C\u602A\u7269\u7684\u79FB\u52A8\u901F\u5EA6\u63D0\u534710%"
+  - id: 6
+    name: "\u6B7B\\\u5764\\\u4E8C\u82AE"
+    desc: "\u9020\u6210\u4F24\u5BB3\u548C\u53D7\u5230\u4F24\u5BB3\u63D0\u534710%"
+  - id: 7
+    name: "\u60CA\\\u5151\\\u4E03\u67F1"
+    desc: "\u6BCF\u6CE2\u602A\u7269\u589E\u52A0\u4E00\u53EA\u602A\u7269\u751F\u6210"

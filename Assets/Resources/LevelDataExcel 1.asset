@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19c1993cc75f7c4c9961893fa2043c8, type: 3}
+  m_Name: LevelDataExcel 1
+  m_EditorClassIdentifier: 
+  levels:
+  - levelId: 1
+    levelTime: 100
+    enemyLevel1Group:
+      type: {fileID: 2311599531590538775, guid: 5a3a3939e56fabf458d6fdf2caa47960,
+        type: 3}
+      count: 0
+    enemyLevel2Group:
+      type: {fileID: 2311599531590538775, guid: cbc271b00c6891f4aa192b5d24e72fc4,
+        type: 3}
+      count: 0
+    enemyLevel3Group:
+      type: {fileID: 2311599531590538775, guid: 5a3a3939e56fabf458d6fdf2caa47960,
+        type: 3}
+      count: 0
+    enemyLevel4Group:
+      type: {fileID: 2311599531590538775, guid: 2df7242b35310e44a8c9a1a5d801b00f,
+        type: 3}
+      count: 0
+    enemyLevel5Group:
+      type: {fileID: 0}
+      count: 0
+    enemyLevel6Group:
+      type: {fileID: 0}
+      count: 0
+    enemyLevel7Group:
+      type: {fileID: 0}
+      count: 0
+    enemyLevel8Group:
+      type: {fileID: 0}
+      count: 0
+    rewardTime: 0
+    rewardGroupId:
+      type: {fileID: 2311599531590538775, guid: 5a3a3939e56fabf458d6fdf2caa47960,
+        type: 3}
+      count: 0
+    levelType: 1
+    boss: {fileID: 6454216383232186743, guid: b82feed61e408a948ba282aa75b7761f, type: 3}

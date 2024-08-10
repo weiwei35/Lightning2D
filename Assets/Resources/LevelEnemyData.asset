@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba21c742c6b1c14f91d06253b835c0f, type: 3}
+  m_Name: LevelEnemyData
+  m_EditorClassIdentifier: 
+  enemys:
+  - enemyId: EnemyFollowMove
+    levelGroup: 010000000200000003000000
+    rewardLevelGroup: 010000000200000003000000
+    firstTime: 1
+    repeatTime: 3
+    count: 0400000006000000
+    hp: 10
+    hpGrow: 0.6
+    hurt: 3
+    hurtGrow: 0.2
+    speed: 1200000016000000
+    speedGrow: 0.1
+    isGroup: 1
+    groupArea: 0400000005000000
+    isCircleSide: 0
+  - enemyId: EnemyFarMove
+    levelGroup: ffffffff
+    rewardLevelGroup: 01000000
+    firstTime: 0
+    repeatTime: 0
+    count: 1400000014000000
+    hp: 10
+    hpGrow: 0.6
+    hurt: 3
+    hurtGrow: 0.2
+    speed: 1200000016000000
+    speedGrow: 0.1
+    isGroup: 0
+    groupArea: ffffffff
+    isCircleSide: 1

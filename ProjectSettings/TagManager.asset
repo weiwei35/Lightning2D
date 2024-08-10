@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TAZOFX
+  - Enemy
+  - Lightning
+  - PlayerCopy
+  - PlayerOnceCopy
+  - Bullet
+  - ScreenWave
+  - LightningController
+  - Papers
+  - EndLevel
+  - CirclePanel
+  - BulletFather
+  - PetBugs
+  - Center
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Copy
+  - Line
+  - Player
+  - BugCircle
+  - LineCollider
+  - Bullet
+  - Wall
+  - LightningEffect
+  - Paper
+  - Boom
+  - BoosBall
+  - LittleBat
+  - UIScence
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera
+    uniqueID: 1875398537
+    locked: 0
