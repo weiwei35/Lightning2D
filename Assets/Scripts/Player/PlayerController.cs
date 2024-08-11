@@ -273,8 +273,20 @@ public class PlayerController : MonoBehaviour
             rushing = false;
             transform.DOScale(new Vector3(0.8f,0.8f,0.8f),0.1f);
         });
+        MoveEnemy();
         screenWave.gameObject.SetActive(true);
-        screenWave.CallShockWave(transform.position);
+        screenWave.CallShockWaveIn(transform.position);
+    }
+    void MoveEnemy(){
+        Collider[] hitColliders = Physics.OverlapSphere(transform.position, 10);
+        foreach (var hitCollider in hitColliders)
+        {
+            if(hitCollider.tag == "Enemy"){
+                EnemyController enemy = hitCollider.GetComponent<EnemyController>();
+                if(enemy != null)
+                    enemy.MoveToLine(transform.position);
+            }
+        }
     }
     bool circlePanel_addProtect = false;
     bool circlePanel_LessHP = false;
